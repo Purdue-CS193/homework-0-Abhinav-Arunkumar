@@ -1,13 +1,10 @@
 ## Abhinav Arunkumar's First CS193 Homework
 
 
-
-```markdown
 Things I like about CS 193
 - the icebreakers at the beginning
 - teaching of basic github
 - the word of the day
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
